@@ -19,7 +19,7 @@ animals_data = [{"question": "The Axolotl is an amphibian that can spend its who
                      {"question": "The Killer Whale is considered a type of dolphin.", "correct_answer": "True"}, 
                      {"question": "Rabbits are carnivores.", "correct_answer": "False"}, 
                      {"question": "The internet browser Firefox is named after the Red Panda.", "correct_answer": "True"}, 
-                     {"question": "The freshwater amphibian, the Axolotl, can regrow it&#039;s limbs.", "correct_answer": "True"}]
+                     {"question": "The freshwater amphibian, the Axolotl, can regrow it's limbs.", "correct_answer": "True"}]
 
 general_data = [
     {
@@ -101,7 +101,7 @@ general_data = [
       "correct_answer": "False"
     },
     {
-      "question": "The commercial UK channel ITV stands for &quot;International Television&quot;.",
+      "question": "The commercial UK channel ITV stands for 'International Television'.",
       "correct_answer": "False"
     }
   ]
